@@ -39,11 +39,11 @@
   <li><strong>Intelli</strong>: Smart water network management tool.<br>
     <em>Technologies:</em> Jetpack Compose, ArcGIS Maps SDK, Dagger Hilt</li>
   <li><strong>Pho24 Kiosk App</strong>: F&B self-ordering kiosk system.<br>
-    <em>Technologies:</em> Firebase, Git, Smartpay SDK, Jira</li>
+    <em>Technologies:</em> Firebase, Smartpay SDK, Jira</li>
   <li><strong>TWO NOW</strong>: Admin platform for multiple mobile apps.<br>
     <em>Technologies:</em> Jetpack Compose, WebView, Firebase</li>
   <li><strong>DiaDiem</strong>: Multi-merchant customizable app.<br>
-    <em>Technologies:</em> Firebase, Payoo SDK, Git, Google Play Console</li>
+    <em>Technologies:</em> Firebase, Payoo SDK</li>
 </ul>
 
 <h4>Published Apps:</h4>
