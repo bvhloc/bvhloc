@@ -23,12 +23,13 @@
   <li>Informatics Center – University of Science (2015)</li>
 </ul>
 
-<h2>🌐 Languages & Certifications</h2>
+<h2>🌐 Languages & additional skills</h2>
 <ul>
-  <li>English: TOEIC 850 (with 2+ years of international work experience)</li>
+  <li>English: TOEIC 800+ (with 2+ years of international work experience)</li>
   <li>Chinese: HSK Level 2</li>
   <li>Certified in Basic First Aid – Ho Chi Minh City Red Cross</li>
   <li>Water Rescue Skills</li>
+  <li>Custom PC Building</li>
 </ul>
 
 
@@ -51,6 +52,7 @@
   <li><a href="https://play.google.com/store/apps/details?id=com.diadiem.pendogo">Pendogo</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.prod.pho24">Pho24</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.vti.highlands">Highlands Coffee</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.hvn.hvnwallet">Heineken StarWallet</a></li>
 </ul>
 
 <h3>Covisoft Vietnam (2015 – 2020)</h3>
