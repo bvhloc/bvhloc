@@ -12,7 +12,7 @@
   <li>9+ years of hands-on experience in Android development using Java and Kotlin</li>
   <li>Strong background with REST APIs, Firebase (Crashlytics, FCM, Firestore, Authentication)</li>
   <li>Skilled in working with NDK (C/C++, CMake, JNI) and custom hardware integration</li>
-  <li>Experience with mapping SDKs (Google Maps, Mapbox, ArcGIS)</li>
+  <li>Extensive experience with mapping SDKs (Google Maps, Mapbox, ArcGIS)</li>
   <li>Worked across diverse industries: Automotive, F&B, Healthcare, Finance, and Navigation</li>
   <li>On-site experience in South Korea (2+ years)</li>
 </ul>
