@@ -49,6 +49,7 @@
 
 <h4>Published Apps:</h4>
 <ul>
+    <li><a href="https://play.google.com/store/apps/details?id=vn.com.intelli.thingswater">ThingsWater</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.diadiem.pendogo">Pendogo</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.prod.pho24">Pho24</a></li>
   <li><a href="https://play.google.com/store/apps/details?id=com.vti.highlands">Highlands Coffee</a></li>
